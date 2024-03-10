@@ -1,0 +1,3 @@
+[submodule "awm"]
+	path = awm
+	url = git@github.com:vgglv/awm.git
